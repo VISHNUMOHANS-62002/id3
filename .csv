@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind,Decision
+Sunny,Hot,high,FALSE,no
+Sunny,Hot,high,TRUE,no
+Overcast,Hot,high,FALSE,yes
+Rain,mild,high,FALSE,yes
+Rain,cool,normal,TRUE,yes
+Rain, cool,normal,TRUE,no
+Overcast, cool,normal,FALSE,yes
+Sunny,mild,high,FALSE,no
+Sunny, cool,normal,FALSE,yes
+Rain,mild,normal,FALSE,yes
+Sunny,mild,normal,TRUE,yes
+Overcast, mild,high,TRUE,yes
+Overcast, hot ,normal,FALSE,yes
+Rain,mild,high,TRUE,no
